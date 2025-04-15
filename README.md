@@ -34,7 +34,7 @@ It utilizes a **U-Net generator**, a **CNN discriminator**, and **VGG-based perc
 ![Image 1](images/13.png)
 ![Image 2](images/11.png)
 ![Image 3](images/12.png)
-![Image 4](images/18.png)
+![Image 4](images/8.png)
 
 
 More images can her found [here](https://github.com/Aryan-Palimkar/Hue-Net/tree/main/images)
